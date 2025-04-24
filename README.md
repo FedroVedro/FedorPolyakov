@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">Я — Data Scientist и разработчик из России, специализирующийся на машинном обучении и анализе данных. <br>- 📚 Прохожу курсы по Data Science от SkillFactory!<br>-.</p>
+<p align="left">Я — Data Scientist и разработчик из России, специализирующийся на машинном обучении и анализе данных. <br>- 📚 Прохожу курсы по Data Science от SkillFactory!<br></p>
 
 ###
 
@@ -38,11 +38,6 @@
 
 <h3 align="left">🔥   Моя статистика :</h3>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=FedroVedro&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
 ###
 
